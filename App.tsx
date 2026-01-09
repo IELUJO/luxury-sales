@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Menu, X, Check, Calendar, Clock, MapPin, Award, User, Download, Phone, Mail, Globe, Linkedin } from 'lucide-react';
-import { Logo, AnahuacLogo } from './components/Logo';
-import { Section, SectionTitle } from './components/Section';
+import { Logo, AnahuacLogo } from './elements/Logo';
+import { Section, SectionTitle } from './elements/Section';
 import { NAV_ITEMS, STATS, MODULES, FACULTY } from './constants';
 
 const App: React.FC = () => {
