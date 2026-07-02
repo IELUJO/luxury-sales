@@ -123,7 +123,7 @@ export const FACULTY: Professor[] = [
     name: 'Adrián Aguirre Robles',
     role: 'Customer Experience and Operations Director',
     company: 'ALE MARINE',
-    image: 'https://www.ielujo.com/wp-content/uploads/2026/01/Adrian-Aguirre.png',
+    image: '/adrian-aguirre.png',
     linkedin: 'https://www.linkedin.com/in/adri%C3%A1n-aguirre-robles-bb25a51a/'
   }
 ];
