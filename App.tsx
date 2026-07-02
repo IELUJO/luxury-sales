@@ -151,7 +151,7 @@ const App: React.FC = () => {
       <section id="home" className="relative h-screen flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img 
-            src="https://www.ielujo.com/wp-content/uploads/2025/12/IMG_20221001_105511-scaled.jpg" 
+            src="/hero.jpg" 
             alt="Luxury Retail Interior" 
             className="w-full h-full object-cover"
           />
@@ -221,7 +221,7 @@ const App: React.FC = () => {
           <div className="relative">
              <div className="absolute -top-4 -left-4 w-24 h-24 border-t-2 border-l-2 border-brand-gold"></div>
              <img 
-              src="https://www.ielujo.com/wp-content/uploads/2025/12/IMG_20250322_093313-scaled.jpg" 
+              src="/aula.jpg"
               alt="Classroom" 
               className="w-full h-auto shadow-2xl relative z-10"
              />
