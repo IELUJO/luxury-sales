@@ -463,7 +463,7 @@ const App: React.FC = () => {
                 </a>
             </div>
             <p className="text-gray-500 text-sm text-center md:text-right">
-                &copy; 2025 Instituto Europeo del Lujo. Todos los derechos reservados.
+                &copy; 2026 Instituto Europeo del Lujo. Todos los derechos reservados.
             </p>
          </div>
       </footer>
